@@ -23,10 +23,6 @@ Adapt paths as needed based on your system configuration.
 
 Execute the necessary commands/batch file for the desired output. 
 
-```
-DEVELOPED BY :Aishwarya S
-REG NO : 212222100003
-```
 ## WINDOWS COMMANDS :
 ## Exercise 1: Basic Directory and File Operations
 
